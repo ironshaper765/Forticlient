@@ -209,4 +209,4 @@ FortiClient is offered as a complete free version with all features and updates 
 Download FortiClient today and take the first step towards securing your digital world!
 
 ---
-**Last updated:** 2026-09-27 18:06:22 UTC
+**Last updated:** 2026-09-27 21:53:08 UTC
